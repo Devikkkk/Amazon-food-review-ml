@@ -1,5 +1,3 @@
-# Amazon-food-review-ml
-
 # Amazon Food Review Sentiment Analysis
 
 ## Overview
